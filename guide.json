@@ -8,7 +8,7 @@
     "oneLiner": "跑在本机的 AI 求职申请工作流（基于 Claude Code）",
     "officialRepo": "https://github.com/MadsLorentzen/ai-job-search",
     "officialDocs": "https://github.com/MadsLorentzen/ai-job-search#quick-start",
-    "stars": "65.8k",
+    "stars": "65.9k",
     "license": "MIT",
     "highlights": [
       "核心命令：/setup、/scrape、/rank、/apply、/interview，另有 /outcome、/followup、/html-report 等扩展命令",
